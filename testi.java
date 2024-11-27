@@ -12,5 +12,6 @@ public class testi {
         greetings("World");
         greetings("Aurora");
         greetings("Christoph");
+        goodbye();
     }
 }
