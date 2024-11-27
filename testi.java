@@ -18,7 +18,5 @@ public class testi {
     }
     public static void welcomeBack(String name){
         System.out.println("Willkommen zurück " + name);
-
->>>>>>> 7b3f83e8027e30e22de7d71162fec29a32364791
     }
 }
