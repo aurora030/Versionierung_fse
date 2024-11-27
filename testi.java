@@ -8,5 +8,10 @@ public class testi {
         greetings("World");
         greetings("Aurora");
         greetings("Christoph");
+        welcomeBack("Aurora");
+        welcomeBack("Christoph");
+    }
+    public static void welcomeBack(String name){
+        System.out.println("Willkommen zurück " + name);
     }
 }
