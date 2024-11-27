@@ -6,5 +6,6 @@ public class testi {
 
     public static void main(String[] args) {
         greetings("World");
+        greetings("Aurora");
     }
 }
